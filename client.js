@@ -39,4 +39,6 @@ document.querySelector("#after-object1").innerText = Object.keys(raiden);
 // practical use: displaying user added information to a profile page.
 document.querySelector("#after-object2").innerText = Object.values(raiden);
 
+// practical use: using delete to remove a status off a persons account if they no longer want that info being shared. example - taking off relationship status on facebook or removing education on facebook
+document.querySelector("#after-object3").innerText = delete rain.power
 
